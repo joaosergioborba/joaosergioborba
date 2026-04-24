@@ -55,5 +55,3 @@ I enjoy turning ideas into functional systems — especially in web development 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaosergioborba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosergio179@gmail.com)
 
----
-⭐ *Feel free to explore my repositories and reach out for collaboration!*
